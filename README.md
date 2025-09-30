@@ -18,5 +18,6 @@ A feature-rich, modern music player application built with Python, featuring a d
 
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd "path/to/your-repo"
+(https://github.com/Akashrajpoot12/music_player)
+
+
